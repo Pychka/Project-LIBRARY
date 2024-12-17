@@ -1,0 +1,10 @@
+id-PublishingHouse#Name-PublishingHouse
+0000#Secker & Warburg
+0001#HarperCollins
+0002#Bantam Books
+0003#HarperVoyager
+0004#Voyager Books
+0005#Bloomsbury
+0006#Scholastic
+0007#Arthur A. Levine Books
+0008#Gallimard
